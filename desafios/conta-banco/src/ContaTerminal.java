@@ -2,11 +2,11 @@ import java.util.Scanner;
 import java.util.Locale;
 
 /**
-*<h1>ContaTerminal</h1>
-*<p>Classe que recebe dados via terminal contendo as características de conta em banco conforme atributos abaixo: </p>
-* 
+ *<h1>ContaTerminal</h1>
+ *<p>Classe que recebe dados via terminal contendo as características de conta em banco conforme atributos abaixo: </p>
+ * 
 
-*<p><strong>Atributo</strong> <strong>Tipo</strong> <strong>Exemplo</strong></p>
+ *<p><strong>Atributo</strong> <strong>Tipo</strong> <strong>Exemplo</strong></p>
  * <ul>
  *     <li><strong>Número</strong>: Inteiro (Exemplo: 1021)</li>
  *     <li><strong>Agência</strong>: Texto (Exemplo: 067-8)</li>
@@ -20,8 +20,8 @@ import java.util.Locale;
  * 
  * 
  *@author Rafael Sebastião
-@version 1.0.0
-@since 04/02/2025
+ *@version 1.0.0
+ *@since 04/02/2025
 
  */
 

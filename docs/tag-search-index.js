@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Calculadora","h":"class Calculadora","d":"Section","u":"Calculadora.html#calculadora-heading"},{"l":"Método somar()","h":"Calculadora.somar(int, int)","d":"Section","u":"Calculadora.html#m-todo-somar--heading"}];updateSearchResults();
